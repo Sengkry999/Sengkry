@@ -1,0 +1,2 @@
+# Sengkry
+I learn ai
